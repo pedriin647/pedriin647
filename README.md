@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Pedro 👋
 
+> ### Owner at Tech Ninjas -> <a href="http://gg.gg/techninjas"> Acesse agora! </a>
+
 
  <div>
   <a href="https://github.com/pedriin647">
