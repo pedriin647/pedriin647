@@ -3,6 +3,16 @@
 > ### Owner at Tech Ninjas -> <a href="http://gg.gg/techninjas"> Acesse agora! </a>
 
 
+<p> Atualmente estagiário de T.I, com 2 anos de experiência progressiva em Tecnologias. Oferecendo soluções em Infraestrutura e Programação, com inovação e criatividade.</p>
+
+* Técnico de T.I no Grande Oriente do Brasil - Minas Gerais
+
+* Aluno no Colégio Cotemig, cursando Técnico em Informática
+
+* Fundador do projeto Tech Ninjas, comunidade de t.i com conteúdos semanais envolvendo programação :)
+
+<hr>
+
  <div>
   <a href="https://github.com/pedriin647">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedriin647&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
