@@ -1,6 +1,6 @@
 ## Fala Dev! Eu sou o Pedro 👋
 
-> ### Owner at Tech Ninjas -> <a href="http://gg.gg/techninjas"> Acesse agora! </a>
+> ### Owner at Tech Ninjas -> <a href="http://gg.gg/techninjas"> Acessar </a>
 
 
 <p> Atualmente estagiário de T.I, com 2 anos de experiência progressiva em Tecnologias. Oferecendo soluções em Infraestrutura e Programação, com inovação e criatividade.</p>
@@ -9,7 +9,7 @@
 
 * Aluno no Colégio Cotemig, cursando Técnico em Informática
 
-* Fundador do projeto Tech Ninjas, comunidade de t.i com conteúdos semanais envolvendo programação :)
+* Fundador do projeto Tech Ninjas, canal no Youtube com foco em programação, e conteúdos relacionados a T.I em geral.
 
 <hr>
 
