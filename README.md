@@ -1,6 +1,6 @@
 ## Fala Dev! Eu sou o Pedro 👋
 
-> ### Owner at Tech Ninjas -> <a href="http://gg.gg/techninjas"> Acessar </a>
+> ### Owner at Tech Ninjas -> <a href="https://www.youtube.com/channel/UChHCWc-G3ipwaRPjMcdJXYw"> Acessar </a>
 
 
 <p> Atualmente estagiário de T.I, com 2 anos de experiência progressiva em Tecnologias. Oferecendo soluções em Infraestrutura e Programação, com inovação e criatividade.</p>
