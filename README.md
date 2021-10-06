@@ -5,7 +5,7 @@
 
 <p> Atualmente estagiário de T.I, com 2 anos de experiência progressiva em Tecnologias. Oferecendo soluções em Infraestrutura e Programação, com inovação e criatividade.</p>
 
-* Técnico de T.I no Grande Oriente do Brasil - Minas Gerais
+* Estagiário de T.I no Grande Oriente do Brasil - Minas Gerais
 
 * Aluno no Colégio Cotemig, cursando Técnico em Informática
 
