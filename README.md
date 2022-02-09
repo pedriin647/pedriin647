@@ -24,6 +24,9 @@
   <img align="center" alt="Dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">  
   <img align="center" alt="php"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="php"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   
+   
     
     
 </div>
