@@ -1,12 +1,14 @@
-## Fala Dev! Eu sou o Pedro 👋
+## Oi! Eu sou o Pedro 👋
 
 
 
-<p> Profissional de T.I, com 2 anos de experiência progressiva em Tecnologias. Oferecendo soluções em Infraestrutura e Programação, com inovação e criatividade.</p>
+<p> Software Engineer to two years offering solutions in Infrastructure and Programming, with innovation and creativity.</p>
 
-* Auxiliar de T.I no Grande Oriente do Brasil - Minas Gerais
+* T.I Auxiliar at Grande Oriente do Brasil - Minas Gerais
 
-* Técnico em informática | Formado em Dezembro de 2021 - Colégio Cotemig
+* Graduating Information Systems - second half | Completion in December/2026 - UNA
+
+* Computer Technician | Finished at December/2021 - Colégio Cotemig
 
 <hr>
 
