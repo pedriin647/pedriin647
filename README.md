@@ -1,4 +1,4 @@
-## Oi! Eu sou o Pedro 👋
+## Hi! I'm Pedro 👋
 
 
 
