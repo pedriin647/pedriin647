@@ -2,7 +2,7 @@
 
 
 
-<p> Software Engineer to two years offering solutions in Infrastructure and Programming, with innovation and creativity.</p>
+<p> T.I Professional to two years offering solutions in Infrastructure and Programming, with innovation and creativity.</p>
 
 * T.I Auxiliar at Grande Oriente do Brasil - Minas Gerais
 
