@@ -6,7 +6,7 @@
 
 * T.I Auxiliar at Grande Oriente do Brasil - Minas Gerais
 
-* Graduating Information Systems - Second Half | Completion in December/2026 - UNA
+* Graduating Information Systems - Third Half | Completion in December/2026 - UNA
 
 * Computer Technician | Finished at December/2021 - Colégio Cotemig
 
