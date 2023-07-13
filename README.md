@@ -4,7 +4,7 @@
 
 <p> T.I Professional to two years offering solutions in Infrastructure and Programming, with innovation and creativity.</p>
 
-* T.I Auxiliar at Grande Oriente do Brasil - Minas Gerais
+* Full Stack Developer at Grande Oriente do Brasil - Minas Gerais
 
 * Graduating Information Systems - Third Half | Completion in December/2026 - UNA
 
