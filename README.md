@@ -4,9 +4,9 @@
 
 <p> T.I Professional to two years offering solutions in Infrastructure and Programming, with innovation and creativity.</p>
 
-* Full Stack Developer at Grande Oriente do Brasil - Minas Gerais
+* Full Stack PHP Developer at AgroBold
 
-* Graduating Information Systems - Third Half | Completion in December/2025 - UNA
+* Graduating Information Systems - Fourth Half | Completion in December/2025 - UNA
 
 * Computer Technician | Finished at December/2021 - Colégio Cotemig
 
