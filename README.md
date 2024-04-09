@@ -4,7 +4,7 @@
 
 <p> T.I Professional to two years offering solutions in Infrastructure and Programming, with innovation and creativity.</p>
 
-* Full Stack PHP Developer at AgroBold
+* Full Stack PHP Developer | CEO at Leonel Tecnologias"
 
 * Graduating Information Systems - Fourth Half | Completion in December/2025 - UNA
 
