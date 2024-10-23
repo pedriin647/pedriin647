@@ -13,8 +13,11 @@
 <hr>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedriin647&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-![Pedriin647's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedriin647&show_icons=true&count_private=true&include_all_commits=true)
+  <div align="center">
+    <a href="https://github.com/pedriin647">
+    <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api?username=pedriin647"/>
+    <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedriin647&show_icons=true&count_private=true&include_all_commits=true&theme=dark\&hide_progress=true"/>
+  </div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
