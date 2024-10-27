@@ -6,7 +6,7 @@
 
 * Full Stack PHP Developer | CEO at Leonel Tecnologias"
 
-* Graduating Information Systems - Fourth Half | Completion in December/2025 - UNA
+* Graduating Information Systems - Fifth Semester | Completion in December/2025 - UNA
 
 * Computer Technician | Finished at December/2021 - Colégio Cotemig
 
