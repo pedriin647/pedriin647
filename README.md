@@ -15,7 +15,7 @@
 
   <div align="center">
     <a href="https://github.com/pedriin647">
-    <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api?username=pedriin647"/>
+    <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api?username=pedriin647&count_private=true&include_all_commits=true"/>
     <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedriin647&show_icons=true&count_private=true&include_all_commits=true&theme=dark\&hide_progress=true"/>
   </div>
 
